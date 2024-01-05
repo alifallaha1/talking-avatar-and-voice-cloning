@@ -33,7 +33,12 @@ To get started with the Voice Cloning & Avatar Generator, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-3. Launch the web application:
+3. Install the required checkpoints
+   ```bash
+   rm -rf checkpoints
+   bash scripts/download_models.sh
+   ```
+4. Launch the web application:
    
    ```bash
    streamlit run app.py
