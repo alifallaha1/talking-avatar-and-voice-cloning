@@ -57,7 +57,7 @@ The Voice Cloning & Avatar Generator also provides Docker support for easy deplo
 2. Run the Docker container:
    
    ```bash
-   docker run --rm --runtime=nvidia --gpus all avtar_clone
+   docker run --rm --runtime=nvidia --gpus all avatar_clone
 
    ```
    
