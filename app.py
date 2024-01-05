@@ -13,7 +13,7 @@ from src.utils.init_path import init_path
 from TTS.api import TTS
 import streamlit as st
 import pandas as pd
-x = TTS("tts_models/multilingual/multi-dataset/xtts_v2", gpu=True)
+
 def clone(text ,speaker_wav , language):
     tts = TTS("tts_models/multilingual/multi-dataset/xtts_v2", gpu=True)
     
