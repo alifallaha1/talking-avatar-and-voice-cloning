@@ -40,7 +40,7 @@ To get started with the Voice Cloning & Avatar Generator, follow these steps:
    ```
 
 4. Access the web application by opening `http://localhost:8501` in your browser.
-#####(hint):when you run it for the first time it will take time to download the cheakpoint for xtts 
+###(hint):when you run it for the first time it will take time to download the cheakpoint for xtts 
 ## Docker Support
 
 The Voice Cloning & Avatar Generator also provides Docker support for easy deployment. To build and run the Docker image, follow these steps:
