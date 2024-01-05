@@ -101,5 +101,5 @@ I'm open to collaboration and look forward to hearing from you!
 
 ---
 
-Thank you for visiting the PRNU Predictor repository. I hope you find it useful and informative. Happy device identification using PRNU values!
+Thank you for visiting the Voice Cloning & Avatar Generator repository. I hope you find it useful and informative. Happy device identification using Voice Cloning & Avatar Generator!
 
